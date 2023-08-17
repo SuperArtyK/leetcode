@@ -1,12 +1,32 @@
 // 542. 01 Matrix.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // https://leetcode.com/problems/01-matrix
 
+
 #include <iostream>
+#include <vector>
+#include <array>
+
+class Solution {
+public:
+	// solution idea
+	
+
+
+
+
+	// function code with potentially slow but easier-to-read code 
+	std::vector<std::vector<int>> updateMatrix(const std::vector<std::vector<int>>& mat) {
+
+		
+		
+	}
+};
 
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	std::cout << "Hello World!\n";
+	std::cin.get();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
